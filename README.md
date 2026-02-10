@@ -87,7 +87,8 @@ Me chamo Lucas Eiiji Ivata, tenho 23 anos. Atualmente, estou no 7º semestre de 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg" 
 />
 
-## 👨🏽‍🦲 &nbsp;Social Links
+**
+### Social Links
 
 <div>
 <a href="iwatalucas@gmail.com">
