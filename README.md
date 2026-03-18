@@ -32,6 +32,14 @@ Me chamo Lucas Eiiji Ivata, tenho 23 anos. Atualmente, estou no 7º semestre de 
 />
 <img 
     align="left" 
+    alt="c" 
+    title="c"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" 
+/>
+<img 
+    align="left" 
     alt="Java" 
     title="Java"
     width="30px" 
@@ -72,6 +80,14 @@ Me chamo Lucas Eiiji Ivata, tenho 23 anos. Atualmente, estou no 7º semestre de 
 />
 <img 
     align="left" 
+    alt="GitHub" 
+    title="GitHub"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" 
+/>
+<img 
+    align="left" 
     alt="VSCode" 
     title="VSCode"
     width="30px" 
@@ -86,9 +102,20 @@ Me chamo Lucas Eiiji Ivata, tenho 23 anos. Atualmente, estou no 7º semestre de 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg" 
 />
+<img 
+    align="left" 
+    alt="Eclipse" 
+    title="Eclipse"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg"
+/>
 
-
-
+</br>
+</br>
+<div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eiiji-lucas&layout=compact&theme=tokyonight"/>
+</div>
 
 <div align="center">
   <h3>📫 Onde me encontrar</h3>
