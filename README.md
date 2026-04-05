@@ -1,115 +1,31 @@
 # 💻 Lucas Eiiji
 
-**`Desenvolvedor Back-End`**
-
-Me chamo Lucas Eiiji Ivata, tenho 23 anos. Atualmente, estou no 7º semestre de Engenharia da Computação na Anhembi Morumbi.
+Me chamo Lucas Eiiji Ivata, tenho 23 anos. Atualmente, estou no 7º semestre de Engenharia da Computação na Anhembi Morumbi. Atualmente busco uma oportunidade de estágio na área da tecnologia. Comprometido com o desenvolvimento de soluções escaláveis e de alto desempenho, aplicando de forma prática os conhecimentos adquiridos em cursos e na graduação. Buscando evolução técnica contínua, inovação e aplicação profissional, alinhando teoria e prática para gerar impacto positivo em projetos, equipes e resultados.
 
 ### 🤖 Linguagens e Tecnologias
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="c" 
-    title="c"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Java" 
-    title="Java"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Spring" 
-    title="Spring"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" 
-/>
-<img 
-    align="left" 
-    alt="MySQL" 
-    title="MySQL"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" 
-/>
-<img 
-    align="left" 
-    alt="MongoDb" 
-    title="MongoDb"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain-wordmark.svg" 
-/>
-<img 
-    align="left" 
-    alt="Postman" 
-    title="Postman"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="GitHub" 
-    title="GitHub"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" 
-/>
-<img 
-    align="left" 
-    alt="VSCode" 
-    title="VSCode"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Eclipse" 
-    title="Eclipse"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Eclipse" 
-    title="Eclipse"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg"
-/>
+## 🛠️ Tech Stack & Skills  
+
+### **🔹 Desenvolvimento**
+- **Languages:** C, Java, Python, HTML, CSS, JavaSript  
+- **Frontend:** Angular
+- **Backend:** Spring, SpringBoot  
+- **Databases:** PostgreSQL, MySQL, SQL   
+- **DevOps & Infra:** Docker, Git, CI/CD
+
+## 🎯 Hobbies & Interesses
+
+### **🔹 Atividades Físicas**
+- Academia  
+- Surfe
+- Basquete
+- Futebol
+- Volei
+  
+### **🔹 Outros**
+- Leitura
+- Poker 
+- Idiomas
 
 </br>
 </br>
