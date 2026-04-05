@@ -12,6 +12,7 @@ Me chamo Lucas Eiiji Ivata, tenho 23 anos. Atualmente, estou no 7º semestre de 
 - **Backend:** Spring, SpringBoot  
 - **Databases:** PostgreSQL, MySQL, SQL   
 - **DevOps & Infra:** Docker, Git, CI/CD
+- **Ferramentas:** GitHub, VScode, PowerBI, Intellij, Eclipse, Postman
 
 ## 🎯 Hobbies & Interesses
 
