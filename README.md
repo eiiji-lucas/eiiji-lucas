@@ -28,8 +28,6 @@ Me chamo Lucas Eiiji Ivata, tenho 23 anos. Atualmente, estou no 7º semestre de 
 - Poker 
 - Idiomas
 
-</br>
-</br>
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eiiji-lucas&layout=compact&theme=tokyonight"/>
 </div>
